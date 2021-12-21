@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Faraz Ahmad
-- 👀 I’m interested in Desktop/Android Applications and Data Science/Machine Learning
+- 👀 I’m interested in Embedded Systems and Data Science/Machine Learning
 - 🌱 I’m currently in Bachelor's of Computer Science at Jacobs University Bremen, Germany
 - 📫 Reach me at fa.ahmad@jacobs-university.de
 
