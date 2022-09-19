@@ -3,7 +3,7 @@
 ## I'm a Computer Science student
 
 - Studying at [Jacobs University Bremen][1] (Sept 2021 - Sept-2024).
-- Full-time intern at [StreamUnlimited Engineering GmbH][2] (Jun 2022 - Present).
+- Full-time intern at [StreamUnlimited Engineering GmbH][2] (Jun 2022 - August 2022).
 - Part-time Student Research Assistant at [Indeed Workgorup][3] (Jacobs University Bremen) (Oct 2021 - Mar 2022).
 - Interested in embedded systems and artificial intelligence (AI SoC).
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/faraz7321/).
