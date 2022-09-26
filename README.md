@@ -1,6 +1,6 @@
 # Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Faraz
 
-## I'm a Computer Science student
+## I'm a maderchod
 
 - Studying at [Jacobs University Bremen][1] (Sept 2021 - Sept-2024).
 - Full-time intern at [StreamUnlimited Engineering GmbH][2] (Jun 2022 - August 2022).
