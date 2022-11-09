@@ -13,6 +13,7 @@
 ## My GitHub Stats 💻
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faraz7321&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=faraz7321&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 Thank you so much 🙏
