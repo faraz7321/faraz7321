@@ -1,10 +1,12 @@
 # Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Faraz
 
-## I'm a Computer Science student
+## I'm a Computer Science student with minor in Robotics and Intelligent Systems
 
 - Studying at [Jacobs University Bremen][1] (Sept 2021 - Sept-2024).
+- Student Research Assistant at [Deutsches Forschungszentrum für Künstliche Intelligenz][4] (DFKI) (Feb 2023 - Present).
+- Student/Teaching Assistant at [Jacobs University Bremen][1] (Dec 2022 - Present).  
 - Full-time intern at [StreamUnlimited Engineering GmbH][2] (Jun 2022 - August 2022).
-- Part-time Student Research Assistant at [Indeed Workgorup][3] (Jacobs University Bremen) (Oct 2021 - Mar 2022).
+- Part-time Student Research Assistant at [Indeed Workgorup][3] (Oct 2021 - Mar 2022).
 - Interested in embedded systems Artificial Intelligence and IoT.
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/faraz7321/).
 
