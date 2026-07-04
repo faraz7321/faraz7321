@@ -2,13 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:414868,100:7aa2f7&height=190&section=header&text=Faraz%20Ahmad&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Robotics%20%C2%B7%20Embedded%20%C2%B7%20AI&descSize=18&descAlignY=72&fontAlignY=42" width="100%" alt="banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=7AA2F7&center=true&vCenter=true&width=650&lines=%24+whoami;Robotics+Software+Engineer+%40+Sebotics;I+teach+robots+to+ride+elevators;Embedded+Linux+%C2%B7+ROS+2+%C2%B7+AI%2FML;MSc+Computer+Science+%40+G%C3%B6ttingen" alt="Robotics Software Engineer · Embedded Linux · ROS 2 · AI/ML" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=7AA2F7&center=true&vCenter=true&width=650&lines=%24+whoami;Robotics+%26+Embedded+Software+Engineer;I+teach+robots+to+ride+elevators;Embedded+Linux+%C2%B7+ROS+2+%C2%B7+AI%2FML;TypeScript+%C2%B7+Full-stack+apps;MSc+Computer+Science+%40+G%C3%B6ttingen" alt="Robotics & Embedded Software Engineer · Embedded Linux · ROS 2 · AI/ML · TypeScript" />
 
 <br/>
 
 <a href="https://www.linkedin.com/in/faraz7321/"><img src="https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=7AA2F7" alt="LinkedIn" /></a>
-&nbsp;
-<a href="mailto:faraz.ahmad@sebotics.com"><img src="https://img.shields.io/badge/Email-1a1b27?style=for-the-badge&logo=gmail&logoColor=7AA2F7" alt="Email" /></a>
 &nbsp;
 <img src="https://komarev.com/ghpvc/?username=faraz7321&color=7aa2f7&style=for-the-badge&label=SESSIONS" alt="profile views" />
 
@@ -20,18 +18,17 @@
 
 ```console
 [BOOT]  faraz.ahmad — robotics & embedded software engineer
-[RUN ]  Sebotics ▸ robot ↔ elevator middleware (KONE) · fleet tooling
+[RUN ]  robot ↔ elevator middleware · robot fleet tooling · full-stack apps
 [RUN ]  MSc Computer Science @ Georg-August-Universität Göttingen (2025 → …)
 [LOG ]  BSc CS + Robotics & Intelligent Systems @ Jacobs University Bremen
-[LOG ]  prev ▸ DFKI (AI research) · StreamUnlimited (embedded Linux,
-        UWB on i.MX8M Mini) · Indeed Workgroup (Explainable AI)
+[LOG ]  prev ▸ AI research · embedded Linux & UWB on i.MX8M Mini · Explainable AI
 [SCAN]  interests ▸ robotics · embedded systems · AI/ML · IoT
 [OK  ]  my robots take the elevator. I take the stairs.
 ```
 
-I write software for machines that move. At **Sebotics** I build the middleware
-that lets autonomous robots call, board, and ride **KONE elevators** on their own —
-and the tooling that keeps whole fleets running across floors.
+I write software for machines that move — middleware that lets autonomous robots
+call, board, and ride elevators on their own, and the tooling that keeps whole
+fleets running across floors. When the robots behave, I ship full-stack apps.
 
 <br/>
 
@@ -42,10 +39,12 @@ and the tooling that keeps whole fleets running across floors.
 <img src="https://skillicons.dev/icons?i=c,cpp,py,java,ts,bash,cmake,git&perline=8" alt="C, C++, Python, Java, TypeScript, Bash, CMake, Git" />
 <br/>
 <img src="https://skillicons.dev/icons?i=ros,linux,docker,arduino,raspberrypi,opencv,pytorch,latex&perline=8" alt="ROS, Linux, Docker, Arduino, Raspberry Pi, OpenCV, PyTorch, LaTeX" />
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,nestjs,expo&perline=8" alt="React, Node.js, NestJS, Expo" />
 
 <br/><br/>
 
-<sub>ROS 1 ↔ ROS 2 bridging · Jetson & embedded Linux · Docker / Apptainer · HPC tooling</sub>
+<sub>ROS 1 ↔ ROS 2 bridging · Jetson & embedded Linux · Docker / Apptainer · HPC tooling · Expo & NestJS apps</sub>
 
 </div>
 
@@ -55,10 +54,15 @@ and the tooling that keeps whole fleets running across floors.
 
 <div align="center">
 
-<a href="https://github.com/faraz7321/MCU-Xpresso"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=faraz7321&repo=MCU-Xpresso&hide_border=true&bg_color=00000000&title_color=7AA2F7&icon_color=7AA2F7&text_color=8B949E" alt="MCU-Xpresso — embedded UWB stack on i.MX8M Mini" /></a>
+<a href="https://github.com/faraz7321/warptools-apptainer"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=faraz7321&repo=warptools-apptainer&hide_border=true&bg_color=00000000&title_color=7AA2F7&icon_color=7AA2F7&text_color=8B949E" alt="warptools-apptainer — reproducible CUDA containers for HPC" /></a>
 <a href="https://github.com/faraz7321/robotbridge"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=faraz7321&repo=robotbridge&hide_border=true&bg_color=00000000&title_color=7AA2F7&icon_color=7AA2F7&text_color=8B949E" alt="robotbridge — elevator control" /></a>
 
 </div>
+
+**Behind closed doors 🔒** <sub>(private builds)</sub>
+
+- 🛗 **Robot fleet platform** `TypeScript` — middleware that gets autonomous robots into elevators, plus the ops tooling around the fleet
+- 💇 **BookGlow** `Expo · NestJS` — salon discovery, booking & payments for Pakistan; one role-based app + API
 
 **Also on my bench 🔧**
 
@@ -66,16 +70,6 @@ and the tooling that keeps whole fleets running across floors.
 - 🦾 **Jetson deployments** — AI inference at the edge, on the robot
 - 🦆 **Duckietown object detection** — perception on small-scale autonomous vehicles
 - 🌊 **Marine robotics** — software for robots that get wet
-
-<details>
-<summary>🔬 More about the research side</summary>
-<br/>
-
-- **DFKI** — student research assistant at the German Research Center for Artificial Intelligence (2023–2024)
-- **StreamUnlimited Engineering** — embedded Linux / Spark stack on the **i.MX8M Mini EVK** for Ultra-Wideband (2022)
-- **Indeed Workgroup** — Explainable AI research: making models say *why*, not just *what* (2021–2022)
-
-</details>
 
 <br/>
 
@@ -121,8 +115,6 @@ Robots, elevators, embedded Linux, or ML — if it computes and (ideally) moves,
 <br/>
 
 <a href="https://www.linkedin.com/in/faraz7321/"><img src="https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=7AA2F7" alt="LinkedIn" /></a>
-&nbsp;
-<a href="mailto:faraz.ahmad@sebotics.com"><img src="https://img.shields.io/badge/faraz.ahmad@sebotics.com-1a1b27?style=for-the-badge&logo=gmail&logoColor=7AA2F7" alt="Email" /></a>
 
 <br/><br/>
 
