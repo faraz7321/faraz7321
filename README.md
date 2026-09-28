@@ -107,15 +107,40 @@ pixel on a screen without anyone noticing the dozen systems in between.
 <a name="projects"></a>
 ### `$ cat projects.md`
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/faraz7321/warptools-apptainer"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=faraz7321&repo=warptools-apptainer&hide_border=true&bg_color=00000000&title_color=7AA2F7&icon_color=7AA2F7&text_color=8B949E" alt="warptools-apptainer — reproducible CUDA containers for HPC" /></a>
-<a href="https://github.com/faraz7321/MCU-Xpresso"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=faraz7321&repo=MCU-Xpresso&hide_border=true&bg_color=00000000&title_color=7AA2F7&icon_color=7AA2F7&text_color=8B949E" alt="MCU-Xpresso — embedded Linux / UWB on i.MX8MM" /></a>
-<br/>
-<a href="https://github.com/faraz7321/noetic-humble-ros1-bridge"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=faraz7321&repo=noetic-humble-ros1-bridge&hide_border=true&bg_color=00000000&title_color=7AA2F7&icon_color=7AA2F7&text_color=8B949E" alt="noetic-humble-ros1-bridge — ROS 1 ↔ ROS 2 bridge" /></a>
-<a href="https://github.com/faraz7321/object-detection-duckietown"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=faraz7321&repo=object-detection-duckietown&hide_border=true&bg_color=00000000&title_color=7AA2F7&icon_color=7AA2F7&text_color=8B949E" alt="object-detection-duckietown — perception for small autonomous vehicles" /></a>
+**🧬 [warptools-apptainer](https://github.com/faraz7321/warptools-apptainer)**<br/>
+<sub>Reproducible Apptainer / CUDA containers for WarpTools cryo-EM processing on HPC</sub><br/>
+`Shell` `Apptainer` `CUDA` `HPC`
 
-</div>
+</td>
+<td width="50%" valign="top">
+
+**📡 [MCU-Xpresso](https://github.com/faraz7321/MCU-Xpresso)**<br/>
+<sub>Embedded Linux stack on the i.MX8MM-EVK for Ultra-Wideband positioning</sub><br/>
+`C` `Embedded Linux` `UWB`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🌉 [noetic-humble-ros1-bridge](https://github.com/faraz7321/noetic-humble-ros1-bridge)**<br/>
+<sub>Gets ROS 1 `noetic` and ROS 2 `humble` nodes talking in mixed setups</sub><br/>
+`Docker` `ROS 1` `ROS 2`
+
+</td>
+<td width="50%" valign="top">
+
+**🦆 [object-detection-duckietown](https://github.com/faraz7321/object-detection-duckietown)**<br/>
+<sub>Perception for small-scale autonomous vehicles</sub><br/>
+`Python` `Computer Vision` `Robotics`
+
+</td>
+</tr>
+</table>
 
 <details>
 <summary><b>🔧 More on my bench</b></summary>
@@ -137,12 +162,13 @@ pixel on a screen without anyone noticing the dozen systems in between.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=faraz7321&show_icons=true&hide_border=true&bg_color=00000000&title_color=7AA2F7&icon_color=7AA2F7&text_color=8B949E&ring_color=7AA2F7&rank_icon=github" alt="GitHub stats" />
+<img src="https://raw.githubusercontent.com/faraz7321/faraz7321/main/profile-summary-card-output/tokyonight/3-stats.svg" height="170" alt="GitHub stats" />
 <img height="170" src="https://streak-stats.demolab.com?user=faraz7321&hide_border=true&background=00000000&ring=7AA2F7&fire=7AA2F7&currStreakNum=7AA2F7&currStreakLabel=7AA2F7&sideNums=8B949E&sideLabels=8B949E&dates=8B949E&stroke=8B949E" alt="contribution streak" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=faraz7321&layout=compact&hide_border=true&bg_color=00000000&title_color=7AA2F7&text_color=8B949E&langs_count=8" alt="most used languages" />
+<img src="https://raw.githubusercontent.com/faraz7321/faraz7321/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" height="170" alt="repos per language" />
+<img src="https://raw.githubusercontent.com/faraz7321/faraz7321/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" height="170" alt="most committed languages" />
 
 </div>
 
@@ -152,7 +178,11 @@ pixel on a screen without anyone noticing the dozen systems in between.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=faraz7321&hide_border=true&bg_color=00000000&color=8B949E&title_color=7AA2F7&line=7AA2F7&point=7AA2F7&area=true&area_color=7AA2F7" width="100%" alt="contribution activity graph" />
+<img src="https://raw.githubusercontent.com/faraz7321/faraz7321/main/profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" alt="contribution activity" />
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/faraz7321/faraz7321/main/profile-summary-card-output/tokyonight/4-productive-time.svg" height="170" alt="when I commit" />
 
 <br/><br/>
 
