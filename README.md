@@ -1,78 +1,138 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:414868,100:7aa2f7&height=190&section=header&text=Faraz%20Ahmad&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Robotics%20%C2%B7%20Embedded%20%C2%B7%20AI&descSize=18&descAlignY=72&fontAlignY=42" width="100%" alt="banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:414868,100:7aa2f7&height=190&section=header&text=Faraz%20Ahmad&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Robotics%20%C2%B7%20IoT%20%C2%B7%20Full-stack%20%C2%B7%20AI&descSize=18&descAlignY=72&fontAlignY=42" width="100%" alt="banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=7AA2F7&center=true&vCenter=true&width=650&lines=%24+whoami;Robotics+%26+Embedded+Software+Engineer;I+teach+robots+to+ride+elevators;Embedded+Linux+%C2%B7+ROS+2+%C2%B7+AI%2FML;TypeScript+%C2%B7+Full-stack+apps;MSc+Computer+Science+%40+G%C3%B6ttingen" alt="Robotics & Embedded Software Engineer · Embedded Linux · ROS 2 · AI/ML · TypeScript" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=7AA2F7&center=true&vCenter=true&width=680&lines=%24+whoami;Robotics+%26+IoT+Systems+Engineer;Connecting+devices%2C+robots+%26+the+cloud;Full-stack%3A+React+%C2%B7+Node+%C2%B7+NestJS;Embedded+Linux+%C2%B7+ROS+2+%C2%B7+AI%2FML;MSc+Computer+Science+%40+G%C3%B6ttingen" alt="Robotics & IoT Systems Engineer · Full-stack · Embedded Linux · ROS 2 · AI/ML" />
 
 <br/>
 
 <a href="https://www.linkedin.com/in/faraz7321/"><img src="https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=7AA2F7" alt="LinkedIn" /></a>
 &nbsp;
+<a href="https://github.com/faraz7321?tab=repositories"><img src="https://img.shields.io/badge/Repos-1a1b27?style=for-the-badge&logo=github&logoColor=7AA2F7" alt="Repositories" /></a>
+&nbsp;
 <img src="https://komarev.com/ghpvc/?username=faraz7321&color=7aa2f7&style=for-the-badge&label=SESSIONS" alt="profile views" />
+
+<br/><br/>
+
+<sub>
+<a href="#whoami">whoami</a> ·
+<a href="#stack">stack</a> ·
+<a href="#projects">projects</a> ·
+<a href="#stats">stats</a> ·
+<a href="#ping">ping</a>
+</sub>
 
 </div>
 
 <br/>
 
+<a name="whoami"></a>
 ### `$ whoami`
 
-```console
-[BOOT]  faraz.ahmad — robotics & embedded software engineer
-[RUN ]  robot ↔ elevator middleware · robot fleet tooling · full-stack apps
-[RUN ]  MSc Computer Science @ Georg-August-Universität Göttingen (2025 → …)
-[LOG ]  BSc CS + Robotics & Intelligent Systems @ Jacobs University Bremen
-[LOG ]  prev ▸ AI research · embedded Linux & UWB on i.MX8M Mini · Explainable AI
-[SCAN]  interests ▸ robotics · embedded systems · AI/ML · IoT
-[OK  ]  my robots take the elevator. I take the stairs.
+```ts
+const faraz = {
+  role:      "Robotics & IoT Systems Engineer",
+  location:  "Germany 🇩🇪",
+  building:  ["IoT system integration", "robot fleet software", "full-stack web & mobile apps"],
+  bridging:  "hardware ⇄ firmware ⇄ backend ⇄ UI",
+  education: {
+    msc: "Computer Science @ Georg-August-Universität Göttingen (2025 → …)",
+    bsc: "CS + Robotics & Intelligent Systems @ Jacobs University Bremen",
+  },
+  previously: ["AI research", "embedded Linux & UWB on i.MX8M Mini", "Explainable AI"],
+  interests:  ["robotics", "embedded systems", "IoT", "AI/ML", "developer tooling"],
+  motto:      "If it has a sensor, it deserves an API.",
+};
 ```
 
-I write software for machines that move — middleware that lets autonomous robots
-call, board, and ride elevators on their own, and the tooling that keeps whole
-fleets running across floors. When the robots behave, I ship full-stack apps.
+I build the glue between the physical and the digital: devices and robots on the
+edge, the services that orchestrate them, and the dashboards and apps people
+actually use. Happiest when a sensor reading travels all the way to a
+pixel on a screen without anyone noticing the dozen systems in between.
+
+<details>
+<summary><b>⚡ Currently</b> <sub>(click to expand)</sub></summary>
+<br/>
+
+- 🔌 Integrating IoT devices, robots and third-party systems through APIs, gateways & event streams
+- 🌐 Shipping full-stack products — TypeScript front to back
+- 🧠 Running AI inference at the edge
+- 🎓 Working through my MSc in Göttingen
+
+</details>
+
+<details>
+<summary><b>🎲 Random facts</b></summary>
+<br/>
+
+- I've debugged more serial ports than I'd like to admit
+- `docker compose up` is my love language
+- My favourite bug is the one that only shows up on real hardware
+
+</details>
 
 <br/>
 
+<a name="stack"></a>
 ### `$ ls ~/stack`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,py,java,ts,bash,cmake,git&perline=8" alt="C, C++, Python, Java, TypeScript, Bash, CMake, Git" />
-<br/>
-<img src="https://skillicons.dev/icons?i=ros,linux,docker,arduino,raspberrypi,opencv,pytorch,latex&perline=8" alt="ROS, Linux, Docker, Arduino, Raspberry Pi, OpenCV, PyTorch, LaTeX" />
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nodejs,nestjs,expo&perline=8" alt="React, Node.js, NestJS, Expo" />
+<b>🖥️ Frontend</b><br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,expo&perline=9" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind, Vite, Expo" />
 
 <br/><br/>
 
-<sub>ROS 1 ↔ ROS 2 bridging · Jetson & embedded Linux · Docker / Apptainer · HPC tooling · Expo & NestJS apps</sub>
+<b>⚙️ Backend & Data</b><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,py,fastapi,php,postgres,mongodb,redis,supabase&perline=10" alt="Node.js, NestJS, Express, Python, FastAPI, PHP, PostgreSQL, MongoDB, Redis, Supabase" />
+
+<br/><br/>
+
+<b>🤖 Embedded, Robotics & AI</b><br/>
+<img src="https://skillicons.dev/icons?i=c,cpp,ros,arduino,raspberrypi,opencv,pytorch,java&perline=8" alt="C, C++, ROS, Arduino, Raspberry Pi, OpenCV, PyTorch, Java" />
+
+<br/><br/>
+
+<b>🚀 DevOps & Tooling</b><br/>
+<img src="https://skillicons.dev/icons?i=linux,docker,nginx,githubactions,vercel,bash,cmake,git&perline=8" alt="Linux, Docker, Nginx, GitHub Actions, Vercel, Bash, CMake, Git" />
+
+<br/><br/>
+
+<sub>REST & WebSocket APIs · MQTT · ROS 1 ↔ ROS 2 bridging · Jetson & embedded Linux · Docker / Apptainer · HPC tooling</sub>
 
 </div>
 
 <br/>
 
+<a name="projects"></a>
 ### `$ cat projects.md`
 
 <div align="center">
 
 <a href="https://github.com/faraz7321/warptools-apptainer"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=faraz7321&repo=warptools-apptainer&hide_border=true&bg_color=00000000&title_color=7AA2F7&icon_color=7AA2F7&text_color=8B949E" alt="warptools-apptainer — reproducible CUDA containers for HPC" /></a>
-<a href="https://github.com/faraz7321/robotbridge"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=faraz7321&repo=robotbridge&hide_border=true&bg_color=00000000&title_color=7AA2F7&icon_color=7AA2F7&text_color=8B949E" alt="robotbridge — elevator control" /></a>
+<a href="https://github.com/faraz7321/MCU-Xpresso"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=faraz7321&repo=MCU-Xpresso&hide_border=true&bg_color=00000000&title_color=7AA2F7&icon_color=7AA2F7&text_color=8B949E" alt="MCU-Xpresso — embedded Linux / UWB on i.MX8MM" /></a>
+<br/>
+<a href="https://github.com/faraz7321/noetic-humble-ros1-bridge"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=faraz7321&repo=noetic-humble-ros1-bridge&hide_border=true&bg_color=00000000&title_color=7AA2F7&icon_color=7AA2F7&text_color=8B949E" alt="noetic-humble-ros1-bridge — ROS 1 ↔ ROS 2 bridge" /></a>
+<a href="https://github.com/faraz7321/object-detection-duckietown"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=faraz7321&repo=object-detection-duckietown&hide_border=true&bg_color=00000000&title_color=7AA2F7&icon_color=7AA2F7&text_color=8B949E" alt="object-detection-duckietown — perception for small autonomous vehicles" /></a>
 
 </div>
 
-**Behind closed doors 🔒** <sub>(private builds)</sub>
+<details>
+<summary><b>🔧 More on my bench</b></summary>
+<br/>
 
-- 🛗 **Robot fleet platform** `TypeScript` — middleware that gets autonomous robots into elevators, plus the ops tooling around the fleet
-- 💇 **BookGlow** `Expo · NestJS` — salon discovery, booking & payments for Pakistan; one role-based app + API
+| | Project | What it does |
+|---|---|---|
+| 🦾 | [ailet-jetson](https://github.com/faraz7321/ailet-jetson) | AI inference at the edge on NVIDIA Jetson |
+| 🌊 | [marine_robotics](https://github.com/faraz7321/marine_robotics) | Software for robots that get wet |
+| 🔍 | [Explainable_AI_Research](https://github.com/faraz7321/Explainable_AI_Research) | Making ML models explain themselves |
+| 🎬 | [PopFlix](https://github.com/faraz7321/PopFlix) | Movie streaming Android app |
 
-**Also on my bench 🔧**
-
-- 🌉 **ROS 1 ↔ ROS 2 bridging** — getting `noetic` and `humble` nodes to talk in mixed fleets
-- 🦾 **Jetson deployments** — AI inference at the edge, on the robot
-- 🦆 **Duckietown object detection** — perception on small-scale autonomous vehicles
-- 🌊 **Marine robotics** — software for robots that get wet
+</details>
 
 <br/>
 
+<a name="stats"></a>
 ### `$ git log --stat`
 
 <div align="center">
@@ -106,15 +166,17 @@ fleets running across floors. When the robots behave, I ship full-stack apps.
 
 <br/>
 
+<a name="ping"></a>
 ### `$ ping faraz`
 
 <div align="center">
 
-Robots, elevators, embedded Linux, or ML — if it computes and (ideally) moves, I want to talk about it.
+IoT integrations, robotics, embedded Linux, full-stack apps or ML —
+if it computes, connects, or (ideally) moves, I want to talk about it.
 
 <br/>
 
-<a href="https://www.linkedin.com/in/faraz7321/"><img src="https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=7AA2F7" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/faraz7321/"><img src="https://img.shields.io/badge/Say%20hi%20on%20LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=7AA2F7" alt="LinkedIn" /></a>
 
 <br/><br/>
 
@@ -122,7 +184,7 @@ Robots, elevators, embedded Linux, or ML — if it computes and (ideally) moves,
 
 <br/>
 
-*⬆️ Going up? My robots already pressed the button.* 🤖🛗
+*Thanks for stopping by — may your builds be green and your sensors calibrated.* 🤖⚡
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:414868,100:7aa2f7&height=110&section=footer" width="100%" alt="footer wave" />
 
