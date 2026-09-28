@@ -65,8 +65,6 @@ pixel on a screen without anyone noticing the dozen systems in between.
 <summary><b>🎲 Random facts</b></summary>
 <br/>
 
-- I've debugged more serial ports than I'd like to admit
-- `docker compose up` is my love language
 - My favourite bug is the one that only shows up on real hardware
 
 </details>
